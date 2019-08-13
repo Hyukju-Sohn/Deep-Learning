@@ -1,8 +1,7 @@
 print("hello")
-
-def A():
-    msg='a'
-    return a
-
-
+ 
+def foo():
+    msg='c'
+    return msg
+  
 print(foo())
