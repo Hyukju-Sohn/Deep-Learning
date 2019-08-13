@@ -1,7 +1,7 @@
 print("hello")
-
+ 
 def foo():
-    msg='b'
+    msg='c'
     return msg
-
+  
 print(foo())
